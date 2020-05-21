@@ -1,7 +1,7 @@
 #include <SoftwareSerial.h>
 
 // Copyright 2020, bitrate16
-// 
+// https://github.com/bitrate16/MJX-Bugs-3H-drone-USB-event-handler
 // 
 // The following dource code demonstrated usage of the Serial input 
 //  reader to parse packets from the MJX Bugs 3H drone's micro usb port.
